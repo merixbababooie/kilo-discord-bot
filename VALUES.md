@@ -17,3 +17,4 @@ $ping
 $membersCount
 $serverCount
 $allMembersCount
+$image
