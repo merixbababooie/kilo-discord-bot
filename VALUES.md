@@ -12,3 +12,8 @@ $globalCooldown
 $mentioned
 $image
 $onlyIf
+$mentioned
+$ping
+$membersCount
+$serverCount
+$allMembersCount
