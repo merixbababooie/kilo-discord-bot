@@ -1,0 +1,11 @@
+$title
+$description
+$message
+$nomention
+$random
+$color
+$replaceText
+$randomText
+$argsCheck
+$addReactions
+$globalCooldown
