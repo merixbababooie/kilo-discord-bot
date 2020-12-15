@@ -9,3 +9,6 @@ $randomText
 $argsCheck
 $addReactions
 $globalCooldown
+$mentioned
+$image
+$onlyIf
